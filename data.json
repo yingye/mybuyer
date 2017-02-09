@@ -1,0 +1,1813 @@
+{
+  "buyer": {
+    "name": "王二丫",
+    "id": 12,
+    "description": "尽享时尚精致生活",
+    "deliveryTime": 38,
+    "rank": "达人",
+    "score": 4.6,
+    "serviceScore": 4.1,
+    "foodScore": 4.7,
+    "rankRate": 79.2,
+    "minPrice": 200,
+    "deliveryPrice": 10,
+    "ratingCount": 24,
+    "sellCount": 90,
+    "bulletin": "王二丫认为节目的主持过程中，最重要的便是“接地气儿”。要真正站在观众的角度去着想，多用观众更容易理解的话语去表达，了解观众所需并尽力满足他们。而作为一名电视购物的主持人，能不断为观众朋友分享更实用、更便宜的产品，也是王二丫一直以来的心愿。",
+    "supports": [
+      {
+        "type": 0,
+        "description": "满200元包邮"
+      },
+      {
+        "type": 1,
+        "description": "酵素全场8折"
+      },
+      {
+        "type": 2,
+        "description": "10元秒杀"
+      },
+      {
+        "type": 3,
+        "description": "支持发票,请下单写好发票抬头"
+      },
+      {
+        "type": 4,
+        "description": "服务升级,30天免费退换货服务"
+      }
+    ],
+    "avatar": "http://pic.ghs.net/public/images/0a/00/50/45f2107cb1c78844c342919d92260eb92b7d6dec.png",
+    "pics": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "infos": [
+      "高品质厨具买手——王二丫",
+      "服务升级,30天免费退换货服务",
+      "支持发票,请下单写好发票抬头",
+      ""
+    ]
+  },
+  "goods": [
+    {
+      "name": "热销榜",
+      "type": -1,
+      "foods": [
+        {
+          "name": "美之扣双密封保鲜盒20件装",
+          "price": 199,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/df/50/f3/f52b8b71f7cbfb55a8c76a7ac127fe35ff570980.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/f3/75/39/275ce55d8e11811e748d734e694c487cbc526af3.jpg",
+          "image": "http://pic.ghs.net/public/images/f3/75/39/275ce55d8e11811e748d734e694c487cbc526af3.jpg"
+        },
+        {
+          "name": "日本222生酵素浓缩60粒",
+          "price": 208,
+          "oldPrice": "259",
+          "description": "浓缩60粒",
+          "sellCount": 50,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢的酵素",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/a5/d1/13/641e2fac2a08d34ce00130989e1d21c8704d789d.jpg",
+          "image": "http://pic.ghs.net/public/images/80/aa/78/c8d7f3c01506fa341bc3758f8cc7348e04af9c85.jpg"
+        },
+        {
+          "name": "柬米柬埔寨茉莉香米",
+          "price": 120,
+          "oldPrice": "149",
+          "description": "",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/3b/bb/ea/b422d54f6b71aa765f3963bb683001206d25fa27.jpg",
+          "image": "http://pic.ghs.net/public/images/3b/bb/ea/b422d54f6b71aa765f3963bb683001206d25fa27.jpg"
+        },
+        {
+          "name": "比利时圣珍亚麻籽油家庭组",
+          "price": 280,
+          "oldPrice": "351",
+          "description": "",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/13/a4/2c/6f96cd8ab182c82df38282e9c4f20e3ab933974a.jpg",
+          "image": "http://pic.ghs.net/public/images/13/a4/2c/6f96cd8ab182c82df38282e9c4f20e3ab933974a.jpg"
+        }
+      ]
+    },
+    {
+      "name": "营养酵素",
+      "type": 2,
+      "foods": [
+        {
+          "name": "日本222生酵素浓缩60粒",
+          "price": 208,
+          "oldPrice": "259",
+          "description": "浓缩60粒",
+          "sellCount": 50,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/a5/d1/13/641e2fac2a08d34ce00130989e1d21c8704d789d.jpg",
+          "image": "http://pic.ghs.net/public/images/80/aa/78/c8d7f3c01506fa341bc3758f8cc7348e04af9c85.jpg"
+        },
+        {
+          "name": "日本150生酵素浓缩液",
+          "price": 200,
+          "oldPrice": "249",
+          "description": "酵素浓缩液",
+          "sellCount": 50,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/28/ef/b2/8ab87b4a76d12ca82ad434efa02a53b4d4b17ae9.jpg",
+          "image": ""
+        },
+        {
+          "name": "日本公主酵素原液",
+          "price": 264,
+          "oldPrice": "329",
+          "description": "",
+          "sellCount": 50,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/0d/58/bd/79a43312accff61af8398e2918bcfd718816c4fd.jpg",
+          "image": ""
+        },
+        {
+          "name": "日本FINE一周水果蔬菜精华酵素7条*5盒",
+          "price": 240,
+          "oldPrice": "299",
+          "description": "一周水果蔬菜精华",
+          "sellCount": 50,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/34/79/57/5643153b77611b751e2220b2453a966a2c83fab3.jpg",
+          "image": ""
+        },
+        {
+          "name": "莫柔花综合果蔬酵素益生菌8盒",
+          "price": 240,
+          "oldPrice": "299",
+          "description": "",
+          "sellCount": 50,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/58/78/82/8adcf101e68c2fd6e380c350a62404b46c2dcab3.jpg",
+          "image": ""
+        },
+        {
+          "name": "日本FINE顶级江户酵素500ml*2瓶",
+          "price": 304,
+          "oldPrice": "380",
+          "description": "",
+          "sellCount": 50,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/ab/42/97/bc622670495b05fcc4723db73a438ee4bf13c2e0.jpg",
+          "image": ""
+        },
+        {
+          "name": "蔬果酵素饮50ml*8瓶/盒",
+          "price": 319,
+          "oldPrice": "398",
+          "description": "人体清道夫",
+          "sellCount": 50,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/b8/f5/4e/a7800b60436448c38e58c893a33fd87fbab793a2.jpg",
+          "image": "http://pic.ghs.net/public/images/b8/f5/4e/a7800b60436448c38e58c893a33fd87fbab793a2.jpg"
+        },
+        {
+          "name": "裕丽康青柠檬酵素400ml",
+          "price": 159,
+          "oldPrice": "198",
+          "description": "",
+          "sellCount": 50,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/24/36/c7/97338465b027819e93d3fb88cd277cf2b15e7720.jpg",
+          "image": "http://pic.ghs.net/public/images/24/36/c7/97338465b027819e93d3fb88cd277cf2b15e7720.jpg"
+        },
+        {
+          "name": "裕丽康诺丽果酵素400ml",
+          "price": 249,
+          "oldPrice": "298",
+          "description": "",
+          "sellCount": 50,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/3f/33/b3/80d2572365141138b478019a8301b93c85fcdb08.jpg",
+          "image": "http://pic.ghs.net/public/images/3f/33/b3/80d2572365141138b478019a8301b93c85fcdb08.jpg"
+        }
+      ]
+    },
+    {
+      "name": "十元抢购",
+      "type": 1,
+      "foods": [
+        {
+          "name": "",
+          "price": 10,
+          "oldPrice": 89,
+          "description": "家洁灵自动喷水平拖",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "十元拖布，真是超值！",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "很赞~",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/4a/2a/00/2f2c1b013506979e5a35c693d4b65b60f99c6d51.jpg",
+          "image": "http://pic.ghs.net/public/images/4a/2a/00/2f2c1b013506979e5a35c693d4b65b60f99c6d51.jpg"
+        }
+      ]
+    },
+    {
+      "name": "美之扣品牌专区",
+      "type": -1,
+      "foods": [
+        {
+          "name": "美之扣保鲜盖透明马卡龙6件",
+          "price": 128,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/fb/65/22/e36c68b4650f9a5d850464c7ea15fc74ce87df52.jpg",
+          "image": "http://pic.ghs.net/public/images/fb/65/22/e36c68b4650f9a5d850464c7ea15fc74ce87df52.jpg"
+        },
+        {
+          "name": "美之扣保鲜盖透明马卡龙6件",
+          "price": 128,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/fb/65/22/e36c68b4650f9a5d850464c7ea15fc74ce87df52.jpg",
+          "image": "http://pic.ghs.net/public/images/fb/65/22/e36c68b4650f9a5d850464c7ea15fc74ce87df52.jpg"
+        },
+        {
+          "name": "美之扣双密封保鲜盒20件装",
+          "price": 199,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/f3/75/39/275ce55d8e11811e748d734e694c487cbc526af3.jpg",
+          "image": "http://pic.ghs.net/public/images/f3/75/39/275ce55d8e11811e748d734e694c487cbc526af3.jpg"
+        },
+        {
+          "name": "美之扣绞肉机MJ6",
+          "price": 128,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/30/64/89/da34ed488f23836c82428daf0cd4e81a5d45c846.jpg",
+          "image": "http://pic.ghs.net/public/images/30/64/89/da34ed488f23836c82428daf0cd4e81a5d45c846.jpg"
+        },
+        {
+          "name": "美之扣切菜器手拉捣蒜器2刀",
+          "price": 43,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/5f/7c/d9/252f9402e192e4698cdde1f49890f5b3dd80b25c.jpg",
+          "image": "http://pic.ghs.net/public/images/5f/7c/d9/252f9402e192e4698cdde1f49890f5b3dd80b25c.jpg"
+        },
+        {
+          "name": "美之扣手动原汁机",
+          "price": 149,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/1b/eb/02/e2ea737b6ccd589908b21b7b7da9b94d8713af36.jpg",
+          "image": "http://pic.ghs.net/public/images/1b/eb/02/e2ea737b6ccd589908b21b7b7da9b94d8713af36.jpg"
+        },
+        {
+          "name": "美之扣多功能料理器",
+          "price": 128,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/69/34/df/1c6f87aa445dd3fbcbd36c642c068d94a1463b2b.jpg",
+          "image": "http://pic.ghs.net/public/images/69/34/df/1c6f87aa445dd3fbcbd36c642c068d94a1463b2b.jpg"
+        },
+        {
+          "name": "美之扣拍拍乐捣蒜器",
+          "price": 43,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/c5/43/43/929c267307f5846a3ee326930bdabaabc607ecd3.jpg",
+          "image": "http://pic.ghs.net/public/images/c5/43/43/929c267307f5846a3ee326930bdabaabc607ecd3.jpg"
+        },
+        {
+          "name": "美之扣烘培套装入门级82只装",
+          "price": 95,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/12/28/f1/a1e7e323c31d05fe32a941385376f1ab4f762769.jpg",
+          "image": "http://pic.ghs.net/public/images/12/28/f1/a1e7e323c31d05fe32a941385376f1ab4f762769.jpg"
+        }
+      ]
+    },
+    {
+      "name": "品质厨具",
+      "type": -1,
+      "foods": [
+        {
+          "name": "SKG智能面包机3936",
+          "price": 499,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/64/54/3e/9283500c05867a6b59ddb636da8d5ece8d7a91ad.jpg",
+          "image": "http://pic.ghs.net/public/images/64/54/3e/9283500c05867a6b59ddb636da8d5ece8d7a91ad.jpg"
+        },
+        {
+          "name": "高达莱手动绞肉机PS-323",
+          "price": 198,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/d3/e6/14/24a0dbaeedac209ae3d681a1e4f5449670a061cc.jpg",
+          "image": "http://pic.ghs.net/public/images/d3/e6/14/24a0dbaeedac209ae3d681a1e4f5449670a061cc.jpg"
+        },
+        {
+          "name": "北欧欧慕迷你电烤箱NKX081",
+          "price": 299,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/84/7d/2e/27bc60c2d88ca84a15c99a7beeb539916fd39bcc.jpg",
+          "image": "http://pic.ghs.net/public/images/84/7d/2e/27bc60c2d88ca84a15c99a7beeb539916fd39bcc.jpg"
+        },
+        {
+          "name": "九阳电炖锅DGD1801BS",
+          "price": 269,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/33/54/e5/c67d0d5670294cea5df3c24f900b94c58ef2efc9.jpg",
+          "image": "http://pic.ghs.net/public/images/33/54/e5/c67d0d5670294cea5df3c24f900b94c58ef2efc9.jpg"
+        },
+        {
+          "name": "艾特巴赫硅胶砧板4个组",
+          "price": 129,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/8d/50/bb/a7bbd87682aa1f871e991a6cb1a219d4f7ae1786.jpg",
+          "image": "http://pic.ghs.net/public/images/8d/50/bb/a7bbd87682aa1f871e991a6cb1a219d4f7ae1786.jpg"
+        },
+        {
+          "name": "韩国现代多段火力控制电陶炉",
+          "price": 298,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/33/ba/24/6bcd70dabea01a5f7e29b08d4469c77dbd8244f8.jpg",
+          "image": "http://pic.ghs.net/public/images/33/ba/24/6bcd70dabea01a5f7e29b08d4469c77dbd8244f8.jpg"
+        }
+      ]
+    },
+    {
+      "name": "粮油调味",
+      "type": -1,
+      "foods": [
+        {
+          "name": "柬米柬埔寨茉莉香米",
+          "price": 120,
+          "oldPrice": "149",
+          "description": "",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/3b/bb/ea/b422d54f6b71aa765f3963bb683001206d25fa27.jpg",
+          "image": "http://pic.ghs.net/public/images/3b/bb/ea/b422d54f6b71aa765f3963bb683001206d25fa27.jpg"
+        },
+        {
+          "name": "比利时圣珍亚麻籽油家庭组",
+          "price": 280,
+          "oldPrice": "351",
+          "description": "",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/13/a4/2c/6f96cd8ab182c82df38282e9c4f20e3ab933974a.jpg",
+          "image": "http://pic.ghs.net/public/images/13/a4/2c/6f96cd8ab182c82df38282e9c4f20e3ab933974a.jpg"
+        },
+        {
+          "name": "自然农法有机鲜胚芽米",
+          "price": 299,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/b5/5e/4f/7f65ce4f2cdffed9587cb45a90926eee802ea98e.jpg",
+          "image": "http://pic.ghs.net/public/images/b5/5e/4f/7f65ce4f2cdffed9587cb45a90926eee802ea98e.jpg"
+        },
+        {
+          "name": "俄罗斯马穆鲁卡葵花籽油5L",
+          "price": 94,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/b1/61/91/999cb3b8ced8542decaa3d4fd54c9a0ab53ca3d6.jpg",
+          "image": "http://pic.ghs.net/public/images/b1/61/91/999cb3b8ced8542decaa3d4fd54c9a0ab53ca3d6.jpg"
+        }
+      ]
+    },
+    {
+      "name": "特色食品",
+      "type": -1,
+      "foods": [
+        {
+          "name": "人参鲍鱼炖草鸡10盒组",
+          "price": 299,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/ec/9a/3f/28b59ee0a4fc1d01c2ab6abc86eaaea72f834e64.jpg",
+          "image": "http://pic.ghs.net/public/images/ec/9a/3f/28b59ee0a4fc1d01c2ab6abc86eaaea72f834e64.jpg"
+        },
+        {
+          "name": "东来顺红焖羊肉12袋",
+          "price": 299,
+          "oldPrice": "",
+          "description": "中华老字号",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/25/1d/5f/e74f86598ef66669145ef08b1e5b16234491bb4b.jpg",
+          "image": "http://pic.ghs.net/public/images/25/1d/5f/e74f86598ef66669145ef08b1e5b16234491bb4b.jpg"
+        },
+        {
+          "name": "正大生态香肠腊肉套组",
+          "price": 299,
+          "oldPrice": "",
+          "description": "正宗",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/84/5b/71/8aa803d86d1137c5dccd3c356a4b219fabd1ec8e.jpg",
+          "image": "http://pic.ghs.net/public/images/84/5b/71/8aa803d86d1137c5dccd3c356a4b219fabd1ec8e.jpg"
+        },
+        {
+          "name": "味品堂美味黄花鱼罐头24罐组",
+          "price": 299,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/e3/a4/09/93b49e2c2e19cc02f4daf9944e402317277399cd.jpg",
+          "image": "http://pic.ghs.net/public/images/e3/a4/09/93b49e2c2e19cc02f4daf9944e402317277399cd.jpg"
+        }
+      ]
+    },
+    {
+      "name": "五粮液专区",
+      "type": -1,
+      "foods": [
+        {
+          "name": "五粮液股份锦上添花陈酿家庭组",
+          "price": 799,
+          "oldPrice": "",
+          "description": "五粮液",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/7b/74/85/f9dacabde51130c9b6c43dbdb22ca81facf04938.jpg",
+          "image": "http://pic.ghs.net/public/images/7b/74/85/f9dacabde51130c9b6c43dbdb22ca81facf04938.jpg"
+        },
+        {
+          "name": "五粮液百年传奇绵柔酒4坛组",
+          "price": 999,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/30/56/74/16c21805973ac7f0afb2c11882f13d01218c4964.jpg",
+          "image": "http://pic.ghs.net/public/images/30/56/74/16c21805973ac7f0afb2c11882f13d01218c4964.jpg"
+        }
+      ]
+    },
+    {
+      "name": "茅台专区",
+      "type": -1,
+      "foods": [
+        {
+          "name": "茅台富贵万年8品鉴500ml*6瓶",
+          "price": 288,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/bd/9a/ba/4b888a53950369ee1623649b64703e1894d3d513.jpg",
+          "image": "http://pic.ghs.net/public/images/bd/9a/ba/4b888a53950369ee1623649b64703e1894d3d513.jpg"
+        },
+        {
+          "name": "茅台V30酒500ml*6瓶",
+          "price": 298,
+          "oldPrice": "",
+          "description": "陈年老酒",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/ae/58/a7/af3015ebe70b9c51c96109c44bb67404a18b1f46.jpg",
+          "image": "http://pic.ghs.net/public/images/ae/58/a7/af3015ebe70b9c51c96109c44bb67404a18b1f46.jpg"
+        },
+        {
+          "name": "茅台茅乡A20国宾酒500ml*6瓶",
+          "price": 298,
+          "oldPrice": "",
+          "description": "国宾酒",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/d6/2f/aa/9e4e6fb12fbccf7fc40a334a9ed0c2e95c45e77f.jpg",
+          "image": "http://pic.ghs.net/public/images/d6/2f/aa/9e4e6fb12fbccf7fc40a334a9ed0c2e95c45e77f.jpg"
+        },
+        {
+          "name": "茅台陈年老坛V35酒500ml*4瓶*2箱",
+          "price": 498,
+          "oldPrice": "598",
+          "description": "陈年老坛",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢啊啊",
+              "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png"
+            }
+          ],
+          "icon": "http://pic.ghs.net/public/images/64/b7/fb/c90799fe8cb277ab280d5f811724a6d805f6e014.jpg",
+          "image": "http://pic.ghs.net/public/images/64/b7/fb/c90799fe8cb277ab280d5f811724a6d805f6e014.jpg"
+        }
+      ]
+    }
+  ],
+  "ratings": [
+    {
+      "username": "3******c",
+      "rateTime": 1469281964000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "主持人的声音很赞~",
+      "avatar": "http://pic.ghs.net/public/images/df/50/f3/f52b8b71f7cbfb55a8c76a7ac127fe35ff570980.png",
+      "recommend": [
+        "茅台陈年老坛V35酒500ml*4瓶*2箱",
+        "高达莱手动绞肉机PS-323"
+      ]
+    },
+    {
+      "username": "2******3",
+      "rateTime": 1469271264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "deliveryTime": "",
+      "text": "快递员服务态度不错",
+      "avatar": "http://pic.ghs.net/public/images/0a/00/50/45f2107cb1c78844c342919d92260eb92b7d6dec.png",
+      "recommend": [
+        "美之扣手动原汁机"
+      ]
+    },
+    {
+      "username": "3******b",
+      "rateTime": 1469261964000,
+      "score": 3,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png",
+      "recommend": []
+    },
+    {
+      "username": "1******c",
+      "rateTime": 1469261864000,
+      "deliveryTime": 20,
+      "score": 5,
+      "rateType": 0,
+      "text": "良心买手",
+      "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png",
+      "recommend": []
+    },
+    {
+      "username": "2******d",
+      "rateTime": 1469251264000,
+      "deliveryTime": 10,
+      "score": 4,
+      "rateType": 0,
+      "text": "很信任她推荐的商品",
+      "avatar": "http://pic.ghs.net/public/images/0a/00/50/45f2107cb1c78844c342919d92260eb92b7d6dec.png",
+      "recommend": []
+    },
+    {
+      "username": "9******0",
+      "rateTime": 1469241964000,
+      "deliveryTime": 70,
+      "score": 1,
+      "rateType": 1,
+      "text": "送货速度蜗牛一样",
+      "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png",
+      "recommend": []
+    },
+    {
+      "username": "d******c",
+      "rateTime": 1469231964000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "很喜欢的买手",
+      "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png",
+      "recommend": []
+    },
+    {
+      "username": "2******3",
+      "rateTime": 1469221264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "电视购物还不错~",
+      "avatar": "http://pic.ghs.net/public/images/0a/00/50/45f2107cb1c78844c342919d92260eb92b7d6dec.png",
+      "recommend": []
+    },
+    {
+      "username": "3******8",
+      "rateTime": 1469211964000,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png",
+      "recommend": []
+    },
+    {
+      "username": "a******a",
+      "rateTime": 1469201964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "妈妈很信任这个主持人",
+      "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png",
+      "recommend": [
+        "美之扣保鲜盖透明马卡龙6件"
+      ]
+    },
+    {
+      "username": "3******3",
+      "rateTime": 1469191264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "买得美之扣质量不错",
+      "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png",
+      "recommend": []
+    },
+    {
+      "username": "t******b",
+      "rateTime": 1469181964000,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png",
+      "recommend": []
+    },
+    {
+      "username": "f******c",
+      "rateTime": 1469171964000,
+      "deliveryTime": 15,
+      "score": 5,
+      "rateType": 0,
+      "text": "送货速度很快",
+      "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png",
+      "recommend": []
+    },
+    {
+      "username": "k******3",
+      "rateTime": 1469161264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png",
+      "recommend": []
+    },
+    {
+      "username": "u******b",
+      "rateTime": 1469151964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "下雨天给快递小哥点个赞",
+      "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png",
+      "recommend": []
+    },
+    {
+      "username": "s******c",
+      "rateTime": 1469141964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "好",
+      "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png",
+      "recommend": []
+    },
+    {
+      "username": "z******3",
+      "rateTime": 1469131264000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "推荐这个买手给大家",
+      "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png",
+      "recommend": []
+    },
+    {
+      "username": "n******b",
+      "rateTime": 1469121964000,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "啊啊啊，很赞啊！",
+      "avatar": "http://pic.ghs.net/public/images/28/af/2b/357e32b26752a0441234700c082076191b4114a9.png",
+      "recommend": []
+    },
+    {
+      "username": "m******c",
+      "rateTime": 1469111964000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "不错！",
+      "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png",
+      "recommend": []
+    },
+    {
+      "username": "l******3",
+      "rateTime": 1469101264000,
+      "deliveryTime": 40,
+      "score": 5,
+      "rateType": 0,
+      "text": "还不错吧",
+      "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png",
+      "recommend": []
+    },
+    {
+      "username": "3******o",
+      "rateTime": 1469091964000,
+      "deliveryTime": "",
+      "score": 2,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png",
+      "recommend": []
+    },
+    {
+      "username": "3******p",
+      "rateTime": 1469081964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "主持人声音好有感染力",
+      "avatar": "http://pic.ghs.net/public/images/0a/00/50/45f2107cb1c78844c342919d92260eb92b7d6dec.png",
+      "recommend": []
+    },
+    {
+      "username": "o******k",
+      "rateTime": 1469071264000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://pic.ghs.net/public/images/98/26/61/3ad6ebd80d8aba4be8151b6ebca770a9296df42b.png",
+      "recommend": []
+    },
+    {
+      "username": "k******b",
+      "rateTime": 1469061964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://pic.ghs.net/public/images/c5/4c/d2/f57ad2f8ad67447e9f30327d730b075776f4d2df.png",
+      "recommend": []
+    }
+  ]
+}

@@ -27,9 +27,8 @@
 							<div class="price">
 								<span class="now">￥{{food.price}}</span><span v-show="food.oldPrice" class="old">￥{{food.oldPrice}}</span>
 							</div>
-              <div>{{food.count}}</div>
               <div class="cartcontrol-wrapper">
-                <cartcontrol :food="food"></cartcontrol>
+                <cartcontrol :food="food" @addCart="addCartParent"></cartcontrol>
               </div>
 						</div>
 					</li>
@@ -37,7 +36,7 @@
 			</li>
 		</ul>
 	  </div>
-    <shopcart :select-foods="selectFoods" :deliveryPrice="buyer.deliveryPrice" :min-price="buyer.minPrice"></shopcart>
+    <shopcart ref="shopcart" :select-foods="selectFoods" :deliveryPrice="buyer.deliveryPrice" :min-price="buyer.minPrice"></shopcart>
   </div>
 </template>
 
@@ -115,7 +114,8 @@
         this.$refs.food.show();
       },
       _drop(target) {
-        // this.$refs.shopcart.drop(target);
+        // 触发shopcart组件中的drop方法
+        this.$refs.shopcart.drop(target);
       },
       initScroll() {
         this.menuScroll = new IScroll(this.$refs.menuWrapper, {
@@ -138,6 +138,9 @@
           height += item.clientHeight;
           this.listHeight.push(height);
         }
+      },
+      addCartParent(target) {
+        this._drop(target);
       }
     },
     components: {
